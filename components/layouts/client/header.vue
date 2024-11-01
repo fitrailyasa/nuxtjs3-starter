@@ -10,6 +10,12 @@
       <NuxtLink class="nav-link" to="/contact">
         Contact
       </NuxtLink>
+      <NuxtLink class="nav-link" to="/auth/login">
+        login
+      </NuxtLink>
+      <NuxtLink class="nav-link" to="/auth/register">
+        Register
+      </NuxtLink>
     </nav>
   </template>
   
